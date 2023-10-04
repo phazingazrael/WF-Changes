@@ -7,6 +7,10 @@ I personally recommend [Stylus](https://chrome.google.com/webstore/detail/stylus
 
 
 ## Usage and Installation:
+> **Note**
+> 
+> Instructions below assume you have installed Stylus, Steps may be similar for other extensions but cannot be guaranteed
+
 - Install either Stylus or another User Style manager for your browser.
 - Find the installed extension icon, if you installed Stylus it will look like a greyed out {S} icon.
 - Right click the icon and select Manage Styles.
