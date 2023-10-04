@@ -4,7 +4,7 @@ To utilize this file fully you need to have a browser extension installed that w
 
 I personally recommend [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) for Google Chrome.
 
-
+![WF.png](WF.png)
 
 ## Usage and Installation:
 > **Note**
