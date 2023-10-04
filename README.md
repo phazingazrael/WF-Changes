@@ -16,5 +16,5 @@ I personally recommend [Stylus](https://chrome.google.com/webstore/detail/stylus
 - Right click the icon and select Manage Styles.
 - In the window that opens up you will see a menu on the left side, Find the button that says "Write New Style" and click it.
 - Open the customCss file in this repository, or click [Here](https://raw.githubusercontent.com/phazingazrael/WF-Changes/main/customCss.css).
-- Once the customCss file has opened, select all of the contained text and paste over all existing information in that "Write New Style" window.
+- Once the customCss file has opened, select all of the contained text, copy and paste over all existing information in that "Write New Style" window.
 - Click Save, then visit the [Wasatch Forge Website](http://www.wasatchforge.com).
