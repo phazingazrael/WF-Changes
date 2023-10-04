@@ -18,3 +18,5 @@ I personally recommend [Stylus](https://chrome.google.com/webstore/detail/stylus
 - Open the customCss file in this repository, or click [Here](https://raw.githubusercontent.com/phazingazrael/WF-Changes/main/customCss.css).
 - Once the customCss file has opened, select all of the contained text, copy and paste over all existing information in that "Write New Style" window.
 - Click Save, then visit the [Wasatch Forge Website](http://www.wasatchforge.com).
+
+Once you have enabled the styles and visited the [Wasatch Forge Website](http://www.wasatchforge.com) you can right click the Stylus icon and select "Turn off all styles" to disable the changes for easy comparison side by side.
