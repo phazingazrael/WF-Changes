@@ -1,0 +1,118 @@
+/* ==UserStyle==
+@name           wasatchforge.com - Possible Design Updates
+@namespace      github.com/phazingazrael
+@version        1.0.0
+@description    A user style to provide some potential updates that could be made to the wasatch forge website.
+@author         Cameren Dessert
+==/UserStyle== */
+@-moz-document url-prefix("https://wasatchforge.com/") {
+	/*              General Styling              */
+	body,
+	.page-container,
+	.page-content,
+	.bg-img-mask {
+		background: #222222;
+	}
+
+	.header-logo .logo-svg path {
+		fill: #f3f3f3 !important;
+	}
+
+	.header-logo:hover .logo-svg path {
+		fill: #ff7931 !important;
+	}
+
+	.main-header {
+		position: fixed !important;
+		top: 0px;
+		background: rgba(51, 51, 51, 0.5) !important;
+	}
+
+	.main-header a,
+	.main-header span {
+		color: #f3f3f3 !important;
+	}
+
+	.main-nav-links .main-nav-item--active {
+		border-bottom: 2px solid #f3f3f3;
+	}
+
+	.main-nav-subnav-item:hover {
+		border-top: 1px solid #ff7931 !important;
+		border-bottom: 1px solid #ff7931 !important;
+		width: 75%;
+		position: relative;
+		left: 12%;
+	}
+
+	.main-nav-subnav-item:hover .main-nav-subnav-link {
+		position: relative;
+		left: -15%;
+	}
+
+	.main-footer-nav {
+		display: none !important;
+	}
+
+	.page-content {
+		color: #f3f3f3 !important;
+	}
+
+	.page-content .inline-link-text {
+		color: #ff7931 !important;
+	}
+
+	.page-content .inline-link:hover .inline-link-text {
+		color: #f3f3f3 !important;
+	}
+
+	.footer-logo {
+		display: none !important;
+	}
+
+	.main-footer-item a:hover {
+		border-bottom: 3px solid #ff7931;
+	}
+
+	.main-footer-item:nth-child(5) {
+		display: none !important;
+	}
+
+	.main-footer {
+		padding: 0rem 0 0rem !important;
+	}
+
+	/*              Per Page Styling              */
+	/*              //////////////////              */
+	/*              Contact Page Styling              */
+	.page-content .contact-item a {
+		color: #ff7931 !important;
+	}
+
+	.page-content .contact-item a:hover {
+		color: #f3f3f3 !important;
+		border-bottom: 3px solid #ff7931;
+	}
+	/*              //////////////////              */
+	/*              Store Page Styling              */
+	.grid-product__wrap-inner:hover .grid-product__title .grid-product__title-inner {
+		border-bottom: 5px solid #ff7931;
+		color: #ff7931 !important;
+	}
+
+	html#ecwid_html body#ecwid_body .ec-size .ec-store .ec-link--muted:hover,
+	html#ecwid_html body#ecwid_body .ec-size .ec-store .form-control--select-inline:hover .form-control__select-text,
+	html#ecwid_html body#ecwid_body .ec-size .ec-store .form-control--select-inline:hover .form-control__arrow {
+		color: #ff7931 !important
+	}
+
+	.grid__sort .form-control:hover select {
+		color: #ff7931 !important;
+	}
+
+	html#ecwid_html body#ecwid_body .ec-size .ec-store .label--attention {
+		background-color: rgba(253, 91, 91, 0.5);
+		border: 1px solid rgba(253, 91, 91, 1);
+		border-right: 0px;
+	}
+}
